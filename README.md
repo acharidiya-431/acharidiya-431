@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Diya Vijay Achari
 
-<!--
-**acharidiya-431/acharidiya-431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Student
+I'm an ECE student interested in building practical projects and
+learning through hands-on experimentation.
 
-Here are some ideas to get you started:
+### 💻 Comfortable With
+- Python
+- C++
+- Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Exploring
+- PCB Designing with KiCad
+- Microcontrollers — ESP32 & STM32
+- Embedded Systems
+- AI/ML applications in electronics
+
+### Projects
+- Automatic Gate Opener using Arduino
+- Laser Security Alarm
+- Simple Audio Amplifier
+- Emergency Smart Watch — ESP32 Simulation using Wokwi
+
+### Skills
+**Programming:** Python, C++
+**Embedded:** Arduino, ESP32, Sensors, Actuators
+**Electronics:** Circuit Design, Sensor Interfacing, Motor Control
+**Simulation:** Tinkercad, Wokwi
+
+
+###  What I'm Working On
+Currently building electronics and embedded-systems with IOT integration projects while
+strengthening my technical and problem-solving skills.
+
+
