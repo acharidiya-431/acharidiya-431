@@ -4,7 +4,7 @@
 I'm an ECE student interested in building practical projects and
 learning through hands-on experimentation.
 
-### 💻 Comfortable With
+### Comfortable With
 - Python
 - C++
 - Arduino
