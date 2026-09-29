@@ -20,7 +20,7 @@ learning through hands-on experimentation.
 - Laser Security Alarm
 - Simple Audio Amplifier
 - Emergency Smart Watch — ESP32 Simulation using Wokwi
-- Smart Fire Detection 
+- Smart Fire Detection System using Arduino and Flame sensor
 
 ### Skills
 **Programming:** Python, C++
